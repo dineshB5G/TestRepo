@@ -7,5 +7,5 @@ public with sharing class Test {
     interger num = 42;
     System.debug('This is a debug message');
     System.debug('This is a 11111 message');
-}
+    System.debug('This is a 22222 message');
 }
