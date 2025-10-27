@@ -8,4 +8,3 @@ public with sharing class Test {
     System.debug('This is a debug message');
     System.debug('This is a 11111 message');
 }
-}
