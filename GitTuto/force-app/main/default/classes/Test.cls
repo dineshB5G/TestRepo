@@ -2,6 +2,6 @@ public with sharing class Test {
     public Test() {
 
     }
-    String d = 'Hello, World!';
+    String dfgs = 'Hello, Worlqqd!';
     interger num = 42;
 }
